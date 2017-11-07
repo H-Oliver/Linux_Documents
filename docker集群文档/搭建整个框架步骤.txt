@@ -1,4 +1,4 @@
-搭建整个框架步骤
+搭建整个框架步骤大纲
 server001
 consul-server
 shipyard
